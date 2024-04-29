@@ -2773,7 +2773,8 @@ size | int    | No |
       "status": "SUCCESS",
       "createdAt": "1671797993000",
       "errorCode": "",
-      "errorMessage": ""
+      "errorMessage": "",
+      "inversePrice": "3306.115996",
     }
   ],
   "total": 23
